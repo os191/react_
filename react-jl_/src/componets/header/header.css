@@ -1,0 +1,25 @@
+.header {
+    height: 50px;
+}
+.header header .header-left {
+    position: relative;
+    top: 0.5rem;
+    left: 0.5rem;
+    color: #fff;
+}
+.header header .header-left:before{
+    content:"\E716"
+}	
+.header header .header-centre {
+    position: relative;
+    left: 155px;
+    top: 10px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 24px;
+}
+.header header .header-right {
+    position: relative;
+    left: 282px;
+    top: 7px;
+}

@@ -1,0 +1,6 @@
+.home .content {
+    display: flex;
+}
+.home .content .comment-right {
+    flex: 1;
+}

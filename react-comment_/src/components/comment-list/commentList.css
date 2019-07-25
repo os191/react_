@@ -1,0 +1,37 @@
+.comment-right {
+    margin-top: 50px;
+}
+.comment-right .title h4{
+    font-size: 25px;
+    color: #6f6d6d;
+}
+.comment-right .list-item {
+    width: 600px;
+    height: 80px;
+    border: 1px solid #b7b3b3;
+}
+.comment-right .list-item .item-del button {
+    position: relative;
+    left: 563px;
+    width: 35px;
+    color: #392cbf;
+}
+.comment-right .list-item .item-user-name {
+    position: relative;
+    left: 33px;
+    width: 300px;
+}
+.comment-right .list-item .item-comment-content {
+    position: relative;
+    left: 70px;
+    top: 4px;
+    width: 100px;
+}
+.comment-right .list-item:first-child {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.comment-right .list-item:last-child {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}

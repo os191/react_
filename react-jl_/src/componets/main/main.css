@@ -1,0 +1,63 @@
+.main {
+    margin-top: 20px;
+}
+/* 上 */
+.main .main-top .main-top-title {
+    font-size: 1.48rem;
+    padding-left: 1rem;
+    margin-bottom: 0.4rem;
+}
+.main-top .situation {
+    height: 4.2rem;
+    border-bottom: 1px solid #eee;
+    font-size: 22px;
+    background-color: #fff;
+}
+.main-top .top-title {
+    position: relative;
+    top: 21px;
+    left: 12px;
+    color: #555;
+}
+.main-top .top-input {
+    position: relative;
+    top: 17px;
+    left: 10px;
+    height: 32px;
+    width: 55%;
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: 700;
+    border: 0;
+    outline: none;
+}
+/* 中 */
+.main-centre {
+    margin-top: 11px;
+}
+.main-centre .main-centre-title {
+    font-size: 1.48rem;
+    padding-left: 1rem;
+    margin-bottom: 0.5rem;
+}
+.main-centre .main-centre-pro {
+    height: 70px;
+    background-color: #fff;
+    line-height: 70px;
+}
+.main-centre .main-centre-pro a {
+    color: #ccc;
+    font-size: 29px;
+    width: 100%;
+    position: relative;
+    left: 100px;
+}
+/* 下 */
+.main-footer {
+    margin-top: 20px;
+}
+.main-footer .main-footer-title {
+    font-size: 1.48rem;
+    padding-left: 1rem;
+    margin-bottom: 0.9rem;
+}
