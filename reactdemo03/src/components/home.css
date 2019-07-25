@@ -1,0 +1,37 @@
+/* 头部 */
+
+.home {
+    width: 100%;
+    /* height: 500px; */
+    /* border: 1px solid pink; */
+    margin-top: 20px;
+}
+.home .header {
+    width: 100%;
+    height: 300px;
+    background-color: #eaeae9;
+}
+.home .header {
+    padding-left: 50px;
+}
+.home .header p {
+    padding-top: 50px;
+    padding-left: 100px;
+    font-weight: 700;
+    font-size: 30px;
+}
+.home .header .user-name {
+    padding-left: 100px;
+}
+.home .header .user-name input{
+    width: 250px;
+    height: 30px;
+}
+.home .header .user-name .but {
+    width: 78px;
+    height: 35px;
+    font-size: 18px;
+}
+.content-list .keyword {
+    margin-left: 80px;
+}
